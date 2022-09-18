@@ -1,7 +1,11 @@
 ## About the project, Evaluation CT by #CTDesarrallo #Funiber
-1. 
-2. 
-3. 
+# Technologies used
+"This is a React project using the Nextjs framework"
+1. Next.js
+2. Tailwind CSS
+3. MongoDB Atlas Cloud
+4. TypeScript
+
 
 ## Start the project
 
